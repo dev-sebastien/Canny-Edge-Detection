@@ -4,8 +4,7 @@ This repo walks through the step-by-step implementation of the Canny Edge Detect
 
 You'll find:
 - Explanation and code for each step of the algorithm  
-- Visual outputs at every stage  
-- A full script that puts everything together  
+- Visual outputs at every stage   
 - A comparison between my implementation and OpenCV's built-in Canny function  
 
 
